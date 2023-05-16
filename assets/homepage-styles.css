@@ -1,0 +1,55 @@
+.site-description h2{
+  color: #17202A;
+  font-family: CourierNew;
+  font-size: 5em;
+  text-shadow: 2px 2px lightblue;
+  margin-top: 0px;
+}
+
+.site-description p{
+  color: black;
+  font-family: arial;
+  font-size: 1.5em;
+  ;
+}
+
+.site-description{
+  background: rgba(153, 160, 171, 0.7);
+  opacity: 1;
+  padding: 15px;
+  transition-duration: 1s;
+  border-radius: 3px;
+}
+
+.h {
+  /* Sizing */
+  width: 100vw;
+  height: 100vh;
+  /* Flexbox stuff */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  /* Text styles */
+  text-align: center;
+
+  /* Background styles */
+  background-image: url(cyber-shopping.jpg);
+  background-size: cover;
+  background-position: relative;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.created-by p{
+  text-align: right;
+  margin: 0;
+  color: black;
+  font-size: 7px;
+}
+
+*body{
+  margin-left: 0;
+  margin-top: 0;
+  overflow-x: hidden;
+}
