@@ -1,7 +1,6 @@
 FROM python:3.8.8
 
-COPY . /Savvy-Saver-main
-WORKDIR /Savvy-Saver-main
+WORKDIR ./
 
 RUN pip install -r requirements.txt
 
