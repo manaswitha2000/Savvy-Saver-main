@@ -1,7 +1,6 @@
 # Savvy-Saver-main
 **SPE major project**
 Savvy-Saver SPE Major Project
-CS 816 Software Production Engineering
 Amitha Reddy (IMT2019023) Manaswitha Reddy (IMT2019511) 18 May 2023
 
 
